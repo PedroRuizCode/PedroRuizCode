@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I'm Pedro Ruiz 👋🏻 👨🏻‍💻 </h1>
-<!--><h3 align="center">A young student with many dreams to fulfill and with all the willingness to do so</h3><!-->
-<font face="Brush Script MT">A young student with many dreams to fulfill and with all the willingness to do so</font>
+***<h3 align="center">A young student with many dreams to fulfill and with all the willingness to do so</h3>***
 
 <br />
 
