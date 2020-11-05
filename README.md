@@ -34,7 +34,7 @@ Electronic engineering student with an emphasis on telecommunications and digita
 <a href="https://www.facebook.com/pedroruiz2001" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_facebook_fb_35.png" alt="PedroRuizCode on Facebook" height="40" /></a>
 <a href="https://www.instagram.com/iampedroruiz/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_instagram_3.png" alt="PedroRuizCode on Instagram" height="40" /></a>
 <a href="https://twitter.com/iampedroruiz" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_Twitter_38.png" alt="PedroRuizCode on Twitter" height="40" /></a>
-<a href="mailto:pedroruizzarate@gmail.com"><img align="center" src="https://cdn.icon-icons.com/icons2/656/PNG/512/mail_email_message_electronic_online_web_icon-icons.com_59986.png alt="Send me an email to my personal account" height="40" /></a>
-<a href="mailto:pedro.ruiz@gjaveriana.edu.co"><img align="center" src="https://cdn.icon-icons.com/icons2/656/PNG/512/mail_email_message_electronic_online_web_icon-icons.com_59986.png alt="Send me an email to my educational account" height="40" /></a>
+<a href="mailto:pedroruizzarate@gmail.com"><img align="center" src="https://cdn.icon-icons.com/icons2/656/PNG/512/mail_email_message_electronic_online_web_icon-icons.com_59986.png" alt="Send me an email to my personal account" height="40" /></a>
+<a href="mailto:pedro.ruiz@gjaveriana.edu.co"><img align="center" src="https://cdn.icon-icons.com/icons2/656/PNG/512/mail_email_message_electronic_online_web_icon-icons.com_59986.png" alt="Send me an email to my educational account" height="40" /></a>
 </p>
 
