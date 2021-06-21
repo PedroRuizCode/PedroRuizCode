@@ -53,3 +53,4 @@ Electronic engineering student with an emphasis on telecommunications and digita
 <a href="mailto:pedro.ruiz@javeriana.edu.co"><img align="center" src="https://cdn.icon-icons.com/icons2/656/PNG/512/mail_email_message_electronic_online_web_icon-icons.com_59986.png" alt="Send me an email to my educational account" height="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroRuizCode&label=Profile%20views&color=0e75b6&style=flat" alt="PedroRuizCode" /> </p>
