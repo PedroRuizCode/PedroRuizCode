@@ -5,9 +5,9 @@
 
 <h3 align="left">👨🏻‍💻 About me:</h3>
 
-Electronic engineering student with an emphasis on telecommunications and digital systems at the Pontifical Javeriana University in Bogotá and certified backhoe operator. Interested in learning everything that contributes to my professional profile and expanding my knowledge in image processing and computer vision, AI and robotics. 📡 🤖
+Electronic engineering student with an emphasis on telecommunications and digital systems at the Pontifical Javeriana University in Bogotá. Interested in learning everything that contributes to my professional profile and expanding my knowledge in image processing and computer vision, AI and robotics. 📡 🤖
 
-- Working on my personal projects and my thesis. 😎
+- Working on my personal projects. 😎
 - I am currently learning a lot of things, including image processing and computer vision and AI. 👾
 - Hobbies: riding a motorcycle and playing video games. 🎮 🏍️
 
