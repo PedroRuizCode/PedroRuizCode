@@ -1,11 +1,11 @@
-<h1 align="center"> Hi, I'm Pedro Ruiz 🇨🇴 👋🏻 </h1>
-<h5 align="center">A young student with many dreams to fulfill and with all the willingness to do so 🚀</h5>
+<h1 align="center"> Hi, I'm Pedro Ruiz👋🏻 </h1>
+<h5 align="center">Electronic engineer with dreams to fulfill and with all the willingness to do so 🚀</h5>
 
 <br />
 
 <h3 align="left">👨🏻‍💻 About me:</h3>
 
-Electronic engineering student with an emphasis on telecommunications and digital systems at the Pontifical Javeriana University in Bogotá. Interested in learning everything that contributes to my professional profile and expanding my knowledge in image processing and computer vision, AI and robotics. 📡 🤖
+Electronic engineer with an emphasis on telecommunications and digital systems from Pontificia Universidad Javeriana in Bogotá. Interested in learning everything that contributes to my professional profile and expanding my knowledge in image processing and computer vision, AI and robotics. 📡 🤖
 
 - Working on my personal projects. 😎
 - I am currently learning a lot of things, including image processing and computer vision and AI. 👾
@@ -16,27 +16,20 @@ Electronic engineering student with an emphasis on telecommunications and digita
 <h3 align="left">🧰 Languages and Tools:</h3>
 
 <p align="left">
+<a href="https://www.python.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="python" height="60" /> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio" height="60" /> </a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" alt="Matlab" height="60" /> </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" height="60" /> </a>
-<a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="60" /> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/800px-Git_icon.svg.png" alt="Git" height="60" /> </a>
 
 <a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" height="60" /> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="50" /> </a>
 
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="python" height="60" /> </a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" height="60" /> </a>
-<a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="Numpy" height="60" /> </a>
-
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/800px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" height="60" /> </a>
-
 </p>
 <br />
 
-<h3 align="left">💻 Platforms:</h3>
+<h3 align="left">💻 Platforms and OS:</h3>
 
 <p align="left"> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://en.wikipedia.org/wiki/Linux#/media/File:Tux.svg" alt="Linux" height="50" /> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="Arduino" height="50" /> </a>
 <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" alt="Raspberry Pi" height="50" /> </a>
 </p>
@@ -45,12 +38,10 @@ Electronic engineering student with an emphasis on telecommunications and digita
 <h3 align="left">📬 Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.facebook.com/pedroruiz2001" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_facebook_fb_35.png" alt="PedroRuizCode on Facebook" height="40" /></a>
 <a href="https://www.instagram.com/iampedroruiz/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_instagram_3.png" alt="PedroRuizCode on Instagram" height="40" /></a>
 <a href="https://twitter.com/iampedroruiz" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_Twitter_38.png" alt="PedroRuizCode on Twitter" height="40" /></a>
 
 <a href="mailto:pedroruizzarate@gmail.com"><img align="center" src="https://cdn.icon-icons.com/icons2/656/PNG/512/mail_email_message_electronic_online_web_icon-icons.com_59986.png" alt="Send me an email to my personal account" height="40" /></a>
-<a href="mailto:pedro.ruiz@javeriana.edu.co"><img align="center" src="https://cdn.icon-icons.com/icons2/656/PNG/512/mail_email_message_electronic_online_web_icon-icons.com_59986.png" alt="Send me an email to my educational account" height="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroRuizCode&label=Profile%20views&color=0e75b6&style=flat" alt="PedroRuizCode" /> </p>
