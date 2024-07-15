@@ -16,12 +16,12 @@ Electronic engineer with an emphasis on telecommunications and digital systems f
 <h3 align="left">🧰 Languages and Tools:</h3>
 
 <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="python" height="50" /> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio" height="50" /> </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" height="50" /> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="python" height="40" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio" height="40" /> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" height="40" /> </a>
 
-<a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" height="50" /> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="50" /> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" height="40" /> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="40" /> </a>
 
 </p>
 <br />
@@ -29,10 +29,10 @@ Electronic engineer with an emphasis on telecommunications and digital systems f
 <h3 align="left">💻 Platforms and OS:</h3>
 
 <p align="left"> 
-<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" alt="Windows" height="50" /> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="Linux" height="50" /> </a>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="Arduino" height="50" /> </a>
-<a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" alt="Raspberry Pi" height="50" /> </a>
+<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" alt="Windows" height="40" /> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="Linux" height="40" /> </a>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="Arduino" height="40" /> </a>
+<a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" alt="Raspberry Pi" height="40" /> </a>
 </p>
 <br />
 
