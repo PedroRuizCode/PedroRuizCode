@@ -1,6 +1,4 @@
 # Hi there, I'm Pedro Ruiz 👋
-
-## About Me
 Electronic Engineer. Passionate about image processing, computer vision, AI and robotics 🤖
 
 ## Currently Working On
