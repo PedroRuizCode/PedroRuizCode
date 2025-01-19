@@ -6,7 +6,7 @@ Electronic Engineer. Passionate about image processing, computer vision, AI and 
 
 ## Tech Stack
 - 💻 Languages: Python, Java, C, SAS
-- 🔧 Tools: Git, VS Code, Docker
+- 🔧 Tools: Git, VS Code, Docker, linux
 
 ## Learning
 - 🤖 Artificial Intelligence
