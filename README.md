@@ -20,4 +20,4 @@ Electronic Engineer. Passionate about image processing, computer vision, AI and 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/PedroRuizCode)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroRuizCode&label=Profile%20views&color=0e75b6&style=flat" alt="PedroRuizCode" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=PedroRuizCode&color=blue)
