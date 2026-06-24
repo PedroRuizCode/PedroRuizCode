@@ -3,6 +3,7 @@ Electronic Engineer. Passionate about image processing, computer vision, AI and 
 
 ## Currently Working On
 🔭 [ArchiHub](https://github.com/archihub-app) - A comprehensive tool for organizing and connecting information.
+🛸 [Personal website](https://pedroruizcode.com) - I am building my personal website. You'll be able to visit it soon ...
 
 ## Tech Stack
 - 💻 Languages: Python, Java, C, SAS
