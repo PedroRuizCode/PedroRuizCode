@@ -1,9 +1,10 @@
 # Hi there, I'm Pedro Ruiz 👋
 Electronic Engineer. Passionate about image processing, computer vision, AI and robotics 🤖
 
+- 🛸 [Personal website](https://pedroruizcode.com) - Personal website is now live ...
+
 ## Currently Working On
 - 🔭 [ArchiHub](https://github.com/archihub-app) - A comprehensive tool for organizing and connecting information.
-- 🛸 [Personal website](https://pedroruizcode.com) - Personal website is now live ...
 
 ## Tech Stack
 - 💻 Languages: Python, Java, C, SAS
