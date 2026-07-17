@@ -18,8 +18,8 @@ I build useful things with **AI, software, electronics, and occasionally wings**
 ## `whoami`
 
 ```text
-AI Developer at the Javeriana Analytics Center
 Co-founder & Developer at BITSOL SAS
+AI Developer at the Javeriana Analytics Center
 Electronic Engineer who enjoys making software talk to hardware
 Currently exploring local AI, document intelligence, computer vision and UAVs
 Based in Bogotá, Colombia
